@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+chromadb
+sentence-transformers
+pandas
+numpy
+scikit-learn
+torch
+transformers
+huggingface-hub
+python-multipart
+pydantic
